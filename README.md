@@ -78,22 +78,3 @@ Essas credenciais ficam salvas e podem ser acessadas na interface do SET, que re
 Importante:
 Legalidade: Este tutorial e as ferramentas apresentadas são destinadas a fins educativos. O phishing sem permissão explícita da vítima é ilegal e pode resultar em penalidades severas. Nunca realize esses ataques sem uma autorização explícita em ambientes controlados.
 Ética: Utilize essas técnicas apenas em ambientes de teste ou auditorias de segurança com permissão, como parte de uma análise de vulnerabilidade autorizada.
-### Ferramentas
-
-- Kali Linux
-- setoolkit
-
-### Configurando o Phishing no Kali Linux
-
-- Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
-
-### Resutados
-
-![Alt text](./passwd.png "Optional title")
